@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25,30&height=200&section=header&text=B.%20Santhana%20Krishna&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Engineer%20%7C%20ICS%2FSCADA%20Security%20%7C%20Detection%20Engineering&descAlignY=56&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25,30&height=200&section=header&text=B.%20Santhana%20Krishna&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Security%20Engineer%20%7C%20LLM%20%2F%20Agent%20Security%20%7C%20Cloud%20Security&descAlignY=56&descSize=18" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=Security+Monitoring+%26+Detection+Engineering;ICS+%2F+OT+%2F+SCADA+Threat+Response;Network+Traffic+Analysis+%26+Anomaly+Detection;ML-Powered+Threat+Detection+Pipelines;Cyber-Physical+Systems+Security)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=LLM+%2F+Agent+Security+%26+Red+Teaming;Prompt+Injection+%26+Jailbreak+Defense;AI+Guardrails+%26+Guardrails-as-Code;Cloud+Security+(AWS)+%26+Detection+Engineering;Cyber-Physical+Systems+%2F+ICS+Security)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 ![Location](https://img.shields.io/badge/📍_Chennai,_Tamil_Nadu,_India-1E1B4B?style=flat-square&logoColor=white)
 &nbsp;
-![Open To Work](https://img.shields.io/badge/Open_To_Work-SOC_Analyst_%7C_Security_Engineer-22C55E?style=flat-square&logo=checkmarx&logoColor=white)
+![Open To Work](https://img.shields.io/badge/Open_To_Work-AI_Security_%7C_Cloud_Security_%7C_SOC-22C55E?style=flat-square&logo=checkmarx&logoColor=white)
 
 <br/><br/>
 
@@ -42,26 +42,39 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santa-Cruz1654&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1E&langs_count=8" width="340" />
 
-Final-year **B.Tech** student specialising in **Cyber-Physical Systems** at SASTRA Deemed University, with hands-on experience in **Security Monitoring**, **Network Traffic Analysis**, and **ICS/OT threat response**. Skilled in building detection pipelines, interpreting network logs, and automating alert escalation workflows using Python.
+Final-year **B.Tech** student specialising in **Cyber-Physical Systems** at SASTRA Deemed University, focused on building and **securing AI systems** — LLM applications, RAG pipelines, and AI agents. I enjoy understanding systems from first principles and turning that understanding into working, testable solutions, from AI guardrails and prompt-injection defense to distributed systems and secure cloud infrastructure.
 
-Demonstrated ability to engineer end-to-end detection systems — from ARX-based digital twin anomaly engines to ML-powered SOC-style threat classifiers — with a strong focus on zero false-positive performance and structured incident response.
-
-Passionate about applying analytical and detection engineering skills in critical infrastructure protection, SOC operations, and enterprise cybersecurity environments.
+Particularly interested in building AI systems that are **reliable, secure, and resilient**, with security and evaluation considered throughout the engineering process — grounded in a background of ICS/OT anomaly detection, network traffic analysis, and SOC-style incident response.
 
 <br/>
 
 **🔍 Open To:**
-- SOC Analyst (L1 / L2) Roles
-- Detection Engineering Internships
-- ICS / OT Security Positions
-- Cybersecurity Graduate Roles
-- Security Research Collaborations
+- AI Security Engineer / LLM Security roles
+- Cloud Security Engineer positions (AWS)
+- Technical GRC Engineer roles
+- SOC Analyst (L1 / L2) / Detection Engineering roles
+- Cybersecurity graduate programs & research collaborations
 
 ---
 
 ## 🛠 Tech Stack
 
 <div align="center">
+
+**AI Engineering & Security**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![NVIDIA NeMo Guardrails](https://img.shields.io/badge/NeMo_Guardrails-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![PyRIT](https://img.shields.io/badge/PyRIT-2C2C2C?style=for-the-badge&logo=microsoft&logoColor=white)
+
+**Cloud & Infrastructure**
+
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
+![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **Languages & Scripting**
 
@@ -77,7 +90,6 @@ Passionate about applying analytical and detection engineering skills in critica
 [![NMap](https://img.shields.io/badge/Nmap-4B8BBE?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org)
 [![Sysmon](https://img.shields.io/badge/Sysmon-0078D7?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/sysinternals/downloads/sysmon)
 [![Tcpdump](https://img.shields.io/badge/Tcpdump-000000?style=for-the-badge&logo=gnu&logoColor=white)](https://tcpdump.org)
-[![SIEM](https://img.shields.io/badge/SIEM-FF6B35?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://elastic.co)
 
 **Embedded & IoT / CPS**
 
@@ -90,32 +102,124 @@ Passionate about applying analytical and detection engineering skills in critica
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org)
 
 </div>
 
 ---
 
-## 🧠 Cybersecurity Expertise
+## 🧠 Security & Engineering Expertise
 
 <div align="center">
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
+| **AI / LLM Security** | ████████░░ Advanced | Prompt injection & jailbreak detection, AI guardrails, OWASP Top 10 for LLM Apps, PyRIT red teaming |
+| **Cloud Security (AWS)** | ███████░░░ Proficient | Bedrock Guardrails, IAM, GuardDuty, CloudTrail/CloudWatch, IaC via AWS CDK |
 | **ICS / OT / SCADA Security** | ████████░░ Advanced | Anomaly detection, digital twin monitoring, OT incident response |
 | **Security Monitoring & SIEM** | ████████░░ Advanced | Alert triage, log ingestion, detection pipeline engineering |
 | **Network Traffic Analysis** | ████████░░ Advanced | Wireshark, Tcpdump, TCP/IP, HTTP, SMTP protocol inspection |
+| **Distributed Systems** | ███████░░░ Proficient | Consistent hashing, virtual nodes, replication, fault tolerance |
 | **Threat Detection (ML)** | ███████░░░ Proficient | Random Forest, feature engineering, multi-class classification |
-| **Incident Response** | ███████░░░ Proficient | Detect–alert–respond pipelines, SOC analyst simulations |
 | **Cryptography & Access Control** | ██████░░░░ Proficient | AES encryption, RFID auth, replay/spoofing mitigation |
-| **ETW / Sysmon Log Analysis** | ██████░░░░ Developing | Event Tracing for Windows, anomaly correlation |
-| **Embedded / CPS Security** | ███████░░░ Proficient | ESP32, Raspberry Pi, sensor spoofing detection |
 
 </div>
 
 ---
 
 ## 🚀 Featured Projects
+
+<details open>
+<summary><b>🛡️ GuardrailOps — AWS Bedrock Guardrails-as-Code</b></summary>
+
+<br/>
+
+> A Guardrails-as-Code pipeline for LLM applications using AWS Bedrock Guardrails, provisioned entirely through AWS CDK (Python) — treating AI safety policies as version-controlled infrastructure rather than manual console configuration.
+
+<div align="center">
+
+| Attribute | Details |
+|:---|:---|
+| **Stack** | Python · AWS CDK · AWS Bedrock Guardrails |
+| **Domain** | AI Governance · Runtime Protection · Policy-as-Code |
+| **Controls** | Denied topics, content filtering, grounding / hallucination detection |
+| **Architecture** | Modular IaC components, reproducible deployment, standalone policy evaluation |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Santa-Cruz1654) |
+
+</div>
+
+**Engineering Highlights:**
+
+- Built a Guardrails-as-Code pipeline for LLM applications using AWS Bedrock Guardrails, provisioned entirely through AWS CDK (Python).
+- Implemented reusable guardrail configurations for denied topics, content filtering, and grounding/hallucination detection, applied consistently across LLM application workflows.
+- Structured the infrastructure as modular IaC components with reproducible deployment and standalone policy evaluation.
+- Explored the relationship between AI governance, runtime protection, and policy enforcement while working with managed foundation-model security controls.
+
+<br/>
+</details>
+
+---
+
+<details>
+<summary><b>🕵️ PromptWarden — LLM Prompt Injection & Jailbreak Detection Middleware</b></summary>
+
+<br/>
+
+> A real-time detection middleware positioned between users and an LLM application to identify prompt injection and jailbreak attempts before suspicious requests reach downstream model components.
+
+<div align="center">
+
+| Attribute | Details |
+|:---|:---|
+| **Stack** | Python · PyRIT · LangChain |
+| **Domain** | AI Red Teaming · LLM Security · OWASP Top 10 for LLM Apps |
+| **Attack Coverage** | Direct injection, encoding/obfuscation, multi-turn attacks, persuasion-based jailbreaks |
+| **Status** | In development |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Santa-Cruz1654) |
+
+</div>
+
+**Engineering Highlights:**
+
+- Developing real-time detection middleware to identify prompt injection and jailbreak attempts before requests reach downstream model components.
+- Grounded the detection approach in the OWASP Top 10 for LLM Applications, targeting adversarial inputs that override system instructions or bypass application policies.
+- Using PyRIT to construct an adversarial test corpus covering direct injection, encoding/obfuscation, multi-turn attacks, and persuasion-based jailbreak techniques.
+- Designing a detection-and-decision layer that classifies suspicious requests as allow, flag, or block before they reach the LLM.
+
+<br/>
+</details>
+
+---
+
+<details>
+<summary><b>⚙️ Distributed Cache Router (DCR) — Consistent Hashing & Distributed Caching</b></summary>
+
+<br/>
+
+> A distributed cache router built from scratch in Python to explore the core routing algorithms behind distributed caching systems.
+
+<div align="center">
+
+| Attribute | Details |
+|:---|:---|
+| **Stack** | Python |
+| **Domain** | Distributed Systems · Caching · Fault Tolerance |
+| **Core Techniques** | SHA-256 hashing, consistent hash rings, binary-search routing, virtual nodes, replica selection |
+| **Testing** | Unit tests + dedicated performance benchmarks |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Santa-Cruz1654) |
+
+</div>
+
+**Engineering Highlights:**
+
+- Built a distributed cache router implementing SHA-256 hashing, consistent hash rings, binary-search routing, virtual nodes, and replica selection.
+- Implemented configurable virtual nodes to improve key distribution and reduce redistribution impact when nodes are added or removed.
+- Added configurable replication with clockwise replica selection to explore fault-tolerance and availability trade-offs.
+- Documented the evolution from modulo hashing to consistent hashing, virtual nodes, and replication, including complexity analysis and design trade-offs.
+
+<br/>
+</details>
+
+---
 
 <details>
 <summary><b>🏭 Securing Water Infrastructure (SWI) — ICS Anomaly Detection & Incident Response System</b></summary>
@@ -133,18 +237,15 @@ Passionate about applying analytical and detection engineering skills in critica
 | **Detection Engine** | ARX-based Digital Twin with Energy-Ratio Alert Scoring |
 | **False Positive Rate** | Zero false positives under normal operating conditions |
 | **Response Pipeline** | Detect → Alert → Persist → Relay-Based Safe-State Execution |
-| **Interface** | Real-time Flask SCADA Dashboard with anomaly visualisation |
-| **Security Impact** | Sensor spoofing detection, physical safe-state activation |
 | **Repository** | [![GitHub](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Santa-Cruz1654) |
 
 </div>
 
 **Engineering Highlights:**
 
-- Designed an ARX-based Digital Twin anomaly detection engine that continuously monitors live sensor data streams and generates **Energy-Ratio Alert Scores**, flagging sensor spoofing deviations in real time.
-- Implemented a fully automated **detect–alert–respond pipeline**: anomaly triggers a structured alert, activates a persistence filter for signal confirmation, and executes relay-based safe-state response via Raspberry Pi 5 and ESP-NOW edge communication.
-- Built a Flask SCADA dashboard providing real-time anomaly visualisation, live alert status, and embedded attack/defence context — enabling operator situational awareness analogous to enterprise SOC analyst consoles.
-- Replicated OT/SCADA threat detection workflows applicable to water, power, and manufacturing critical infrastructure protection.
+- Designed an ARX-based Digital Twin anomaly detection engine generating Energy-Ratio Alert Scores to flag sensor spoofing in real time.
+- Implemented an automated detect–alert–respond pipeline with relay-based safe-state response via Raspberry Pi 5 and ESP-NOW edge communication.
+- Built a Flask SCADA dashboard for real-time anomaly visualisation and live alert status.
 
 <br/>
 </details>
@@ -156,28 +257,24 @@ Passionate about applying analytical and detection engineering skills in critica
 
 <br/>
 
-> An end-to-end machine learning threat detection pipeline on the UNSW-NB15 dataset, directly mirroring SIEM-style log ingestion, feature extraction, and alert classification workflows used in production SOC environments.
+> An end-to-end machine learning threat detection pipeline on the UNSW-NB15 dataset, mirroring SIEM-style log ingestion, feature extraction, and alert classification workflows used in production SOC environments.
 
 <div align="center">
 
 | Attribute | Details |
 |:---|:---|
 | **Stack** | Python · scikit-learn · Pandas · NumPy · SMTP · UNSW-NB15 Dataset |
-| **Domain** | Threat Detection · Network Security · SOC Automation |
 | **Detection Accuracy** | 99.6% using Random Forest (binary + multi-class) |
 | **Attack Categories** | DoS · Exploits · Reconnaissance · Backdoor |
-| **Feature Engineering** | 47 raw features → 15 high-signal indicators via correlation analysis |
-| **Alert System** | Automated SMTP escalation to 3 administrators on threshold breach |
-| **Scale** | Real-world network attack traffic dataset |
 | **Repository** | [![GitHub](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Santa-Cruz1654) |
 
 </div>
 
 **Engineering Highlights:**
 
-- Engineered a structured feature engineering pipeline: EDA, one-hot encoding, Min-Max normalisation — reducing 47 raw network features to 15 high-signal indicators via correlation analysis, modelling the log triage and noise-reduction process central to SOC operations.
-- Achieved **99.6% detection accuracy** using Random Forest across binary and multi-class classification covering DoS, Exploits, Reconnaissance, and Backdoor attack categories.
-- Deployed an automated SMTP-based alert escalation system: upon threshold breach, structured incident notifications dispatched to three administrators — directly replicating SOC alert triage and escalation workflows.
+- Reduced 47 raw network features to 15 high-signal indicators via correlation analysis, EDA, one-hot encoding, and Min-Max normalisation.
+- Achieved 99.6% detection accuracy using Random Forest across binary and multi-class classification.
+- Deployed automated SMTP-based alert escalation to three administrators on threshold breach.
 
 <br/>
 </details>
@@ -196,20 +293,15 @@ Passionate about applying analytical and detection engineering skills in critica
 | Attribute | Details |
 |:---|:---|
 | **Stack** | Raspberry Pi · MFRC522 RFID Module · Python · AES Encryption · Wireshark |
-| **Domain** | Physical Access Control · Hardware Security · Authentication |
-| **Encryption** | AES — enforcing strong credential integrity |
 | **Validation** | Wireshark packet-level inspection — confirmed encrypted payload integrity |
-| **Threat Modelling** | Replay attack mitigation · Spoofing resistance · Plaintext leakage prevention |
-| **Design Approach** | Hardware–Software Co-Design for physical access control scenarios |
 | **Repository** | [![GitHub](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Santa-Cruz1654) |
 
 </div>
 
 **Engineering Highlights:**
 
-- Designed an AES-encrypted RFID access control system enforcing strong authentication integrity and resistance against replay and spoofing attacks, with hardware-level cryptographic protection.
-- Validated communication security through **Wireshark packet-level inspection**, confirming encrypted payload integrity and complete absence of plaintext credential leakage across all transmission paths.
-- Applied hardware–software co-design to model physical access control threat scenarios, demonstrating comprehensive understanding of authentication vulnerabilities and mitigation strategies.
+- Designed an AES-encrypted RFID access control system resistant to replay and spoofing attacks.
+- Validated communication security through Wireshark packet-level inspection, confirming no plaintext credential leakage.
 
 <br/>
 </details>
@@ -236,11 +328,11 @@ Passionate about applying analytical and detection engineering skills in critica
 
 | 🏅 Recognition | Details |
 |:---:|:---|
+| **AI Guardrails-as-Code Pipeline** | Built AWS Bedrock Guardrails infrastructure provisioned entirely via AWS CDK |
 | **Zero False Positive Detection** | Achieved zero false positives in ICS anomaly detection engine under normal operating conditions |
 | **99.6% Threat Detection Accuracy** | ML pipeline on UNSW-NB15 dataset — Random Forest, multi-class classification |
 | **Critical Infrastructure Security** | Designed and deployed a fully functional OT/SCADA security monitoring lab system |
 | **Hardware-Validated Cryptography** | AES-encrypted RFID system validated through Wireshark packet-level inspection |
-| **Multi-Admin SOC Alert Pipeline** | Automated SMTP escalation system dispatching structured alerts to 3 administrators |
 | **Academic Excellence** | Class X — 96.6% · Class XII — 88.8% · B.Tech CGPA — 8.00 |
 
 </div>
@@ -353,27 +445,27 @@ Credential ID: `g2kRx3qEQkufZGsT5`
 
 ```yaml
 current_focus:
-  learning:
-    - Advanced SIEM query engineering and correlation rule development
-    - ICS/OT network segmentation and defence-in-depth strategies
-    - Malware analysis and reverse engineering fundamentals
-    - Cloud security monitoring (AWS Security Hub, GuardDuty)
-
   building:
-    - Expanding SWI digital twin with multi-sensor fusion
-    - Automated threat hunting scripts for network log triage
-    - Detection-as-Code pipeline with structured YAML alert rules
+    - PromptWarden — real-time prompt injection / jailbreak detection middleware
+    - Expanding GuardrailOps with additional Bedrock guardrail policies and demo scenarios
+    - Detection-as-Code pipelines with structured YAML alert rules
+
+  learning:
+    - AI red teaming with PyRIT — multi-turn attacks, encoding/obfuscation, persuasion-based jailbreaks
+    - AWS cloud security services — Security Hub, GuardDuty, CloudTrail/CloudWatch
+    - Advanced SIEM query engineering and correlation rule development
+    - MITRE ATT&CK for ICS framework integration
 
   exploring:
-    - MITRE ATT&CK for ICS framework integration
+    - RAG and agent security (OWASP Top 10 for LLM Applications)
+    - Distributed systems design patterns beyond consistent hashing
     - CTF challenges — forensics and network analysis categories
-    - Threat intelligence feeds and IOC enrichment pipelines
 
   open_to:
-    - SOC Analyst (L1/L2) full-time or internship roles
-    - ICS / OT Security Engineer positions
-    - Detection Engineering opportunities
-    - Cybersecurity research collaborations
+    - AI Security Engineer / LLM Security roles
+    - Cloud Security Engineer (AWS) positions
+    - Technical GRC Engineer roles
+    - SOC Analyst (L1/L2) and Detection Engineering roles
     - Graduate security programs at FAANG / MNC level
 ```
 
@@ -392,7 +484,7 @@ current_focus:
 <br/>
 
 > *Open to connecting with security professionals, researchers, and recruiters.*
-> *Feel free to reach out for collaborations, referrals, or just a conversation about cybersecurity.*
+> *Feel free to reach out for collaborations, referrals, or just a conversation about AI security and cybersecurity.*
 
 </div>
 
